@@ -23,13 +23,13 @@
       -
       -->
     <string name="settings_gesture_up">Deslizar para cima</string>
-    <string name="settings_gesture_double_up">Duplo para cima</string>
+    <string name="settings_gesture_double_up">2 dedos para cima</string>
     <string name="settings_gesture_down">Deslizar para baixo</string>
-    <string name="settings_gesture_double_down">Duplo para baixo</string>
+    <string name="settings_gesture_double_down">2 dedos para baixo</string>
     <string name="settings_gesture_left">Deslizar para esquerda</string>
-    <string name="settings_gesture_double_left">Duplo para esquerda</string>
+    <string name="settings_gesture_double_left">2 dedos para esquerda</string>
     <string name="settings_gesture_right">Deslizar para direita</string>
-    <string name="settings_gesture_double_right">Duplo para direita</string>
+    <string name="settings_gesture_double_right">2 dedos para direita</string>
     <string name="settings_gesture_right_top_edge">Deslizar para direita (Cima)</string>
     <string name="settings_gesture_right_bottom_edge">Deslizar para direita (Baixo)</string>
     <string name="settings_gesture_left_bottom_edge">Deslizar para esquerda (Baixo)</string>
@@ -69,7 +69,7 @@
     <string name="settings_display_screen_timeout_disabled">Manter a tela ligada</string>
     <string name="settings_display_full_screen">Usar tela cheia</string>
     <string name="settings_launcher_section_functionality">Funções</string>
-    <string name="settings_enabled_gestures_double_swipe">Ações de duplo deslize</string>
+    <string name="settings_enabled_gestures_double_swipe">Deslize com 2 dedos</string>
     <string name="settings_enabled_gestures_edge_swipe">Ações de deslizar nas bordas</string>
     <string name="settings_functionality_auto_launch">Iniciar resultados da pesquisa</string>
     <string name="settings_functionality_auto_keyboard">Mostrar teclado para pesquisa</string>
