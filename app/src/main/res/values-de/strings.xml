@@ -232,8 +232,7 @@
 
         <br/><br/><br/><br/>
         Die Auswahl kann später in den Einstellungen geändert werden.
-        ]]>
-    </string>
+        ]]></string>
     <string name="settings_theme_background_item_transparent">Transparent</string>
     <string name="settings_theme_background_item_dim">Dimmen</string>
     <string name="settings_theme_background_item_blur">Weichzeichnen</string>
