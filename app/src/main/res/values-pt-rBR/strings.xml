@@ -102,7 +102,7 @@
     <string name="list_app_info">Informações do aplicativo</string>
     <string name="list_removed">O app selecionado foi removido</string>
     <string name="list_not_removed">Não foi possível remover o app</string>
-    <string name="list_apps_search_hint">Busque aplicativos</string>
+    <string name="list_apps_search_hint">Busque</string>
     <string name="list_other_settings">Configurações do µLauncher</string>
     <string name="list_other_list">Todos os apps</string>
     <string name="list_other_volume_up">Música: Mais alto</string>
@@ -185,7 +185,9 @@
         O µLauncher usará essas permissões apenas para bloquear a tela.
         <br/>
         (Você realmente não deveria confiar num app aleatório que você baixou que tá pedindo estas permissões, mas pode verificar o <a href=\"https://github.com/jrpie/Launcher\">código-fonte</a>.)
-
+        <br/>
+        Em alguns aparelhos após ativação do Serviço de acessibilidade não será mais exigido o PIN para acessar dados criptografados, na inicialização do celular.
+        Isto pode ser <a href="https://issuetracker.google.com/issues/37010136#comment36">reativado</a> depois.
 
         <br/><br/><br/><br/>
         Você pode alterar sua escolha em configurações à qualquer momento.
@@ -252,4 +254,7 @@
     <string name="dialog_select_color_ok">beleza</string>
     <string name="dialog_consent_accessibility_privileges">Estou ciente de que isto concederá permissões elevadas ao µLauncher.</string>
     <string name="dialog_consent_accessibility_other_options">Estou ciente de que existem outras opções (permissões de Administrador do aparelho ou o botão de ligar).</string>
+    <string name="settings_functionality_search_web">Pesquise na internet</string>
+    <string name="settings_functionality_search_web_summary">Ao buscar na lista de apps toque no Enter para iniciar uma pesquisa na internet.</string>
+    <string name="list_apps_search_hint_no_auto_launch">Busca (sem inicialização automática)</string>
 </resources>
