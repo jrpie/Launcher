@@ -132,8 +132,7 @@
     <string name="settings">Configurações</string>
     <string name="ic_menu_alt">Mais opções</string>
     <string name="list_app_favorite_remove">Remover dos favoritos</string>
-    <string name="alert_cant_expand_status_bar_panel">Erro: Não foi possível expandir a barra de status.
-\nEssa ação usa uma funcionalidade que não faz parte da API do Android publicada. Infelizmente, ela não vai funcionar no seu dispositivo.</string>
+    <string name="alert_cant_expand_status_bar_panel">Erro: Não foi possível expandir a barra de status. \nEssa ação usa uma funcionalidade que não faz parte da API do Android publicada. Infelizmente, ela não vai funcionar no seu dispositivo.</string>
     <string name="settings_theme_background">Fundo (lista de apps e configurações)</string>
     <string name="settings_theme_font">Fonte</string>
     <string name="settings_theme_monochrome_icons">Ícones de apps monocromáticos</string>
