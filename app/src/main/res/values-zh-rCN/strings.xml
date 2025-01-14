@@ -64,9 +64,7 @@
     <string name="list_title_pick">选择应用</string>
     <string name="tutorial_start_text">花几秒时间学下咋用这个启动器吧！</string>
     <string name="tutorial_concept_title">概念</string>
-    <string name="tutorial_concept_text_2">该应用是开源的（MIT许可），并在 GitHub 上可用！
-\n
-\n一定要来看看代码仓库！</string>
+    <string name="tutorial_concept_text_2">该应用是开源的（MIT许可），并在 GitHub 上可用！ \n \n一定要来看看代码仓库！</string>
     <string name="tutorial_usage_title">使用方法</string>
     <string name="tutorial_usage_text">您的主屏幕仅包含本地日期和时间，没有其它纷纷扰扰。</string>
     <string name="tutorial_setup_title">设置</string>
@@ -87,17 +85,10 @@
     <string name="list_other_track_next">音乐：下一首</string>
     <string name="list_other_nop">啥也不干</string>
     <string name="tutorial_title">教程</string>
-    <string name="tutorial_concept_text">μLauncher 的设计是最小、高效且无干扰。
-\n
-\n它不付费、无广告、不追踪。</string>
+    <string name="tutorial_concept_text">μLauncher 的设计是最小、高效且无干扰。 \n \n它不付费、无广告、不追踪。</string>
     <string name="tutorial_usage_text_2">您只需滑动屏幕或按下按钮即可启动应用程序。在下一步向导中选择一些应用程序。</string>
     <string name="settings_general_choose_home_screen">将 μLauncher 设为默认桌面</string>
-    <string name="tutorial_finish_text">您已经准备好开始了！
-\n
-\n我希望这对你有很大的价值!
-\n
-\n- Finn (Launcher 的作者)
-\n以及 Josia(做了一些改进并维护了 μLauncher 分支)</string>
+    <string name="tutorial_finish_text">您已经准备好开始了！ \n \n我希望这对你有很大的价值! \n \n- Finn (Launcher 的作者) \n以及 Josia(做了一些改进并维护了 μLauncher 分支)</string>
     <string name="settings_enabled_gestures_double_swipe">双滑动作</string>
     <string name="settings_clock_localized">使用本地日期格式</string>
     <string name="settings_clock_time_visible">显示时间</string>
@@ -110,8 +101,7 @@
     <string name="settings_display_rotate_screen">旋转屏幕</string>
     <string name="settings_launcher_section_apps">应用</string>
     <string name="list_other_expand_notifications_panel">展开通知面板</string>
-    <string name="alert_cant_expand_status_bar_panel">错误：无法打开通知栏。
-\n这个动作使用的功能并非现有的 Android API的一部分。不幸的是，它似乎不适用于您的设备。</string>
+    <string name="alert_cant_expand_status_bar_panel">错误：无法打开通知栏。 \n这个动作使用的功能并非现有的 Android API的一部分。不幸的是，它似乎不适用于您的设备。</string>
     <string name="list_other_torch">开关手电筒</string>
     <string name="alert_no_torch_found">未检测到带闪光灯的摄像头。</string>
     <string name="alert_torch_access_exception">错误：无法访问闪光灯。</string>

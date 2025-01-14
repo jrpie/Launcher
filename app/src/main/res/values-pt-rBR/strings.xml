@@ -118,8 +118,8 @@
     <string name="tutorial_title">Tutorial</string>
     <string name="tutorial_start_text">Tire alguns segundos para aprender a usar este Launcher!</string>
     <string name="tutorial_concept_title">Conceito</string>
-    <string name="tutorial_concept_text">O Launcher foi projetado para ser minimalista, eficiente e livre de distrações.\n\nEle é livre de pagamentos, anúncios e serviços de rastreamento.</string>
-    <string name="tutorial_concept_text_2">O aplicativo é de código aberto (licença MIT) e está disponível no GitHub!\n\nNão deixe de conferir o repositório!</string>
+    <string name="tutorial_concept_text">O Launcher foi criado para ser minimalista, eficiente e livre de distrações. Ele é livre de pagamentos, anúncios e serviços de rastreamento.</string>
+    <string name="tutorial_concept_text_2">O app é de código aberto (licença MIT) e está disponível no GitHub! Não deixe de conferir o repositório!</string>
     <string name="tutorial_usage_title">Uso</string>
     <string name="tutorial_usage_text">Sua tela inicial contém a data e hora local. Sem distração.</string>
     <string name="tutorial_usage_text_2">Você pode iniciar seus aplicativos com um toque único ou pressionando um botão. Escolha algumas ações no próximo slide.</string>
@@ -127,13 +127,12 @@
     <string name="tutorial_setup_text">Selecionamos alguns aplicativos padrão para você. Se quiser, você pode alterá-los agora:</string>
     <string name="tutorial_setup_text_2">Você também pode alterar suas escolhas mais tarde.</string>
     <string name="tutorial_finish_title">Vamos lá!</string>
-    <string name="tutorial_finish_text">Você está pronto para começar!\n\nEspero que isso seja de grande valor para você!\n\n- Finn (que criou o Launcher)\n\te Josia (que fez algumas melhorias e mantém o fork μLauncher)</string>
+    <string name="tutorial_finish_text">Tá todo pronto para começar! Espero que isso seja de grande valor para você! - Finn (que criou o Launcher) \te Josia (que fez algumas melhorias e tb mantém o fork do μLauncher)</string>
     <string name="tutorial_finish_button">Começar</string>
     <string name="settings">Configurações</string>
     <string name="ic_menu_alt">Mais opções</string>
     <string name="list_app_favorite_remove">Remover dos favoritos</string>
-    <string name="alert_cant_expand_status_bar_panel">Erro: Não foi possível expandir a barra de status.
-\nEssa ação usa uma funcionalidade que não faz parte da API do Android publicada. Infelizmente, ela não vai funcionar no seu dispositivo.</string>
+    <string name="alert_cant_expand_status_bar_panel">Erro: Não foi possível expandir a barra de status. Essa ação usa uma funcionalidade que não faz parte da API do Android publicado. Infelizmente, isto não vai funcionar no seu dispositivo.</string>
     <string name="settings_theme_background">Fundo (lista de apps e configurações)</string>
     <string name="settings_theme_font">Fonte</string>
     <string name="settings_theme_monochrome_icons">Ícones de apps monocromáticos</string>
@@ -257,4 +256,6 @@
     <string name="settings_functionality_search_web">Pesquise na internet</string>
     <string name="settings_functionality_search_web_summary">Ao buscar na lista de apps toque no Enter para iniciar uma pesquisa na internet.</string>
     <string name="list_apps_search_hint_no_auto_launch">Busca (sem inicialização automática)</string>
+    <string name="settings_meta_licenses">Licenças de código aberto</string>
+    <string name="legal_info_title">Licenças de código aberto</string>
 </resources>
