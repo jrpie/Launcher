@@ -107,7 +107,7 @@
     <string name="tutorial_start_text">Prenez quelques instants pour apprendre à utiliser ce \'launcher\' !</string>
     <string name="tutorial_concept_title">Concept</string>
     <string name="tutorial_concept_text">Launcher vous offre un environnement minimaliste, efficace et sans distraction.\n\nIl ne vous coûte rien, ne contient aucune publicité, ne recueille pas de données personnelles.</string>
-    <string name="tutorial_concept_text_2">L\'application est open-source (sous licence MIT) et disponible sur GitHub !\n\nN\'hésitez pas à y faire un tour !</string>
+    <string name="tutorial_concept_text_2">L\'application est open-source (sous licence MIT) et disponible sur GitHub !\n\nN\'hésitez pas à y faire un tour !</string>
     <string name="tutorial_usage_title">Utilisation</string>
     <string name="tutorial_usage_text">Sur votre écran d\'accueil vous ne trouverez rien d\'autre que la date et l\'heure : rien qui pourrait vous distraire.</string>
     <string name="tutorial_usage_text_2">Vous pouvez ouvrir des applications en effectuant des mouvelents latéraux sur l\'écran ou en appuyant sur les touches de volume. Vous pourrez en définir le comportement dans le panneau suivant.</string>
@@ -115,12 +115,7 @@
     <string name="tutorial_setup_text">Voici quelques paramètres par défaut. Vous pouvez les changer dès à présent :</string>
     <string name="tutorial_setup_text_2">Vous pourrez bien sûr tout reconfigurer plus tard.</string>
     <string name="tutorial_finish_title">C\'est parti !</string>
-    <string name="tutorial_finish_text">Vous êtes prêt à démarrer !
-\n
-\nJ\'espère que cette application vous sera précieuse !
-\n
-\n- Finn M Glas
-\n(le développeur originel) et Josia (le développeur de la branche μLauncher)</string>
+    <string name="tutorial_finish_text">Vous êtes prêt à démarrer ! \n \nJ\'espère que cette application vous sera précieuse ! \n \n- Finn M Glas \n(le développeur originel) et Josia (le développeur de la branche μLauncher)</string>
     <string name="tutorial_finish_button">Démarrer</string>
     <string name="settings">Réglages</string>
     <string name="ic_menu_alt">Plus d\'options</string>
@@ -154,8 +149,7 @@
     <string name="list_other_list_favorites">Applications Favorites</string>
     <string name="snackbar_app_hidden">Appli cachée. Vous pouvez l\'afficher à nouveau depuis les réglages.</string>
     <string name="undo">Défaire</string>
-    <string name="alert_cant_expand_status_bar_panel">Erreur : impossible d\'afficher la barre de statut.
-\nCette action utilise des fonctionalités qui ne sont pas officiellement dans l\'API Android. Malheuresement ça ne semble pas fonctionner sur votre appareil.</string>
+    <string name="alert_cant_expand_status_bar_panel">Erreur : impossible d\'afficher la barre de statut. \nCette action utilise des fonctionalités qui ne sont pas officiellement dans l\'API Android. Malheuresement ça ne semble pas fonctionner sur votre appareil.</string>
     <string name="list_other_expand_settings_panel">Réglages rapides</string>
     <string name="list_other_torch">Basculer l\'état de la lampe</string>
     <string name="settings_theme_color_theme_item_dynamic">Dynamique</string>
